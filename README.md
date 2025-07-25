@@ -30,7 +30,7 @@ An intelligent AI tool that detects common Python bugs and suggests fixes using 
 
 
    🛠️ How It Works
-<img width="1248" height="1842" alt="deepseek_mermaid_20250725_c708e6" src="https://github.com/user-attachments/assets/11cf3ef1-c572-4a38-b879-4a7b573d5b5e" />
+<img width="1080" height="1920" alt="deepseek_mermaid_20250725_c708e6" src="https://github.com/user-attachments/assets/11cf3ef1-c572-4a38-b879-4a7b573d5b5e" />
 
 Code Tokenization: Custom parser breaks down Python syntax
 

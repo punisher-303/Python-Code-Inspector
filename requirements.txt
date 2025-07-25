@@ -1,0 +1,22 @@
+# Core Application Dependencies (REQUIRED)
+gradio==4.28.3
+scikit-learn==1.7.0  # Must match your training environment
+numpy==1.26.4
+joblib==1.3.2
+tokenizers==0.19.1
+python-dateutil==2.9.0
+psutil==5.9.8
+regex==2024.4.28
+
+# Development Tools (REMOVE FOR DEPLOYMENT)
+# pytest==8.1.1
+# pytest-cov==4.1.0
+# black==24.3.0
+# flake8==7.0.0
+# mypy==1.9.0
+# isort==5.13.2
+# mkdocs==1.5.3
+# mkdocs-material==9.5.7
+# mkdocstrings[python]==0.24.0
+# bandit==1.7.7
+# safety==2.3.5
